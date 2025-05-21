@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.19)  20 MAY 2025 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  21 MAY 2025 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/User/OneDrive/Desktop/major/major-project-report/main.tex
-(c:/Users/User/OneDrive/Desktop/major/major-project-report/main.tex
+**c:/Users/acer/Desktop/major-report/major-project-report/main.tex
+(c:/Users/acer/Desktop/major-report/major-project-report/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
 (C:\Program Files\MiKTeX\tex/latex/base\report.cls
@@ -24,7 +24,7 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen146
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
@@ -46,10 +46,10 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen153
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks18
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/preprint\fullpage.sty
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip51
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathptmx.sty
+) (C:\Program Files\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -84,10 +84,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/titlesec\titletoc.sty
+) (C:\Program Files\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2025/01/04 v2.17 TOC entries
 \ttl@leftsep=\dimen155
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (C:\Program Files\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip52
@@ -126,7 +126,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip83
 \cfttabindent=\skip84
 \cfttabnumwidth=\skip85
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen156
 \lightrulewidth=\dimen157
@@ -154,7 +154,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip86
 \backup@length=\skip87
 \ar@cellbox=\box54
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/siunitx\siunitx.sty
+) (C:\Program Files\MiKTeX\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2025-05-07 v3.4.10 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count290
 \l__siunitx_number_exponent_fixed_int=\count291
@@ -170,16 +170,16 @@ Package: siunitx 2025-05-07 v3.4.10 A comprehensive (SI) units package
 \l__siunitx_angle_marker_box=\box55
 \l__siunitx_angle_unit_box=\box56
 \l__siunitx_compound_count_int=\count300
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/translations\translations.sty
+ (C:\Program Files\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
  (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count301
 ) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -205,14 +205,14 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \l__siunitx_unit_tmp_int=\count302
 \l__siunitx_unit_position_int=\count303
 \l__siunitx_unit_total_int=\count304
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count305
 \float@exts=\toks21
 \float@box=\box63
 \@float@everytoks=\toks22
 \@floatcapt=\box64
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-04-14 L3 programming layer (loader) 
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
@@ -224,11 +224,11 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count307
 \l__lipsum_a_int=\count308
 \l__lipsum_b_int=\count309
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/acronym\acronym.sty
+ (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Program Files\MiKTeX\tex/latex/acronym\acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/bigfoot\suffix.sty
+ (C:\Program Files\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\User\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
+) (C:\Program Files\MiKTeX\tex/latex/xstring\xstring.sty (C:\Program Files\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count310
 \xs_countb=\count311
 )
@@ -250,9 +250,9 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen177
 \Gin@req@width=\dimen178
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/sectsty\sectsty.sty
+) (C:\Program Files\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -263,7 +263,7 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box65
 \beforetitleunit=\skip88
@@ -285,7 +285,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 109.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (main.aux)
 \openout1 = `main.aux'.
@@ -340,7 +340,7 @@ LaTeX Font Info:    ... okay on input line 109.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \big@size=\dimen184
-(C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+(C:\Program Files\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 109.
@@ -366,13 +366,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <images/kec.png, id=1, 225.84375pt x 225.84375pt>
 File: images/kec.png Graphic file (type png)
 <use images/kec.png>
-Package pdftex.def Info: images/kec.png  used on input line 19.
+Package pdftex.def Info: images/kec.png  used on input line 18.
 (pdftex.def)             Requested size: 101.62874pt x 101.62874pt.
 
 
 [1
 
-{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/kec.png>]) (acknowledgement.tex)
+{C:/Users/acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/kec.png>]
+
+[2]) (acknowledgement.tex)
 
 [1
 
@@ -380,31 +382,29 @@ Package pdftex.def Info: images/kec.png  used on input line 19.
 
 [2
 
-] (main.toc
-
-[3
-
-])
+] (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
 
 
-[3] (main.lof
+[2
+
+] (main.lof
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 4.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 4.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 4.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 4.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -419,7 +419,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 
 
-[4
+[3
 
 ] (main.lot)
 \tf@lot=\write5
@@ -427,11 +427,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 
 
-[5
+[4
 
 ] (abbreviation.tex)
 
-[6
+[5
 
 ]
 Chapter 1.
@@ -442,106 +442,60 @@ Chapter 1.
 ])
 
 [2]
+
+[3]
 Chapter 2.
 (chapters/ch2literature.tex)
-
-[3
-
-]
-Chapter 3.
-(chapters/ch3relatedtheory.tex
-<images/flysky receiver.jpg, id=40, 828.09375pt x 828.09375pt>
-File: images/flysky receiver.jpg Graphic file (type jpg)
-<use images/flysky receiver.jpg>
-Package pdftex.def Info: images/flysky receiver.jpg  used on input line 6.
-(pdftex.def)             Requested size: 226.48395pt x 226.48187pt.
-<images/esc.jpg, id=41, 401.5pt x 441.65pt>
-File: images/esc.jpg Graphic file (type jpg)
-<use images/esc.jpg>
-Package pdftex.def Info: images/esc.jpg  used on input line 15.
-(pdftex.def)             Requested size: 226.48395pt x 249.1351pt.
-
 
 [4
 
 ]
 
-[5 <./images/flysky receiver.jpg> <./images/esc.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 26.
- (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-<images/raspimg.jpg, id=49, 897.3525pt x 644.4075pt>
-File: images/raspimg.jpg Graphic file (type jpg)
-<use images/raspimg.jpg>
-Package pdftex.def Info: images/raspimg.jpg  used on input line 38.
-(pdftex.def)             Requested size: 226.48395pt x 162.6354pt.
-
+[5]
 
 [6]
-<images/esrganarchi.png, id=53, 1184.425pt x 372.39125pt>
-File: images/esrganarchi.png Graphic file (type png)
-<use images/esrganarchi.png>
-Package pdftex.def Info: images/esrganarchi.png  used on input line 48.
-(pdftex.def)             Requested size: 385.02547pt x 121.05412pt.
+Chapter 3.
+(chapters/ch3relatedtheory.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<images/fig3.1.png, id=50, 553.06625pt x 406.51875pt>
+File: images/fig3.1.png Graphic file (type png)
+<use images/fig3.1.png>
+Package pdftex.def Info: images/fig3.1.png  used on input line 6.
+(pdftex.def)             Requested size: 226.48395pt x 166.46906pt.
 
 
-[7 <./images/raspimg.jpg> <./images/esrganarchi.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-[]|\OT1/ptm/m/n/12 Overly smooth
- []
+[7
 
+ <./images/fig3.1.png>]
+<images/fig3.2.jpg, id=54, 1084.05pt x 632.3625pt>
+File: images/fig3.2.jpg Graphic file (type jpg)
+<use images/fig3.2.jpg>
+Package pdftex.def Info: images/fig3.2.jpg  used on input line 17.
+(pdftex.def)             Requested size: 226.48395pt x 132.11496pt.
+)
 
-Underfull \hbox (badness 3954) in paragraph at lines 68--68
-[]|\OT1/ptm/m/n/12 Efficient, higher
- []
+[8 <./images/fig3.2.jpg>]
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-[]|\OT1/ptm/m/n/12 Limited tex-ture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
-[]|\OT1/ptm/m/n/12 High PSNR,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-[]|\OT1/ptm/m/n/12 Less per-cep-tual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-[]|\OT1/ptm/m/n/12 Computationally
- []
-
-
-
-[8]
-Overfull \hbox (0.29227pt too wide) in paragraph at lines 105--106
-[]\OT1/ptm/b/n/12 Nepal Na-tional Land Cover Dataset\OT1/ptm/m/n/12 : An-nual land-cover maps (2000{2022) from Land-
- []
-
-
-
-[9])
-
-[10]
+[9]
 Chapter 4.
 (chapters/ch4feasability.tex
 
-[11
+[10
 
 ])
 
-[12]
+[11]
 Chapter 5.
 (chapters/ch5methodology.tex
 
-[13
+[12
 
-])
+]
+
+[13])
 
 [14]
 
@@ -568,13 +522,9 @@ Package pdftex.def Info: images/kec.png  used on input line 3.
 
 ])
 
-[20] (references.tex
+[20] (references.tex)
 
 [21
-
-])
-
-[22
 
 ] (main.aux)
  ***********
@@ -583,17 +533,17 @@ L3 programming layer <2025-04-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8891 strings out of 469941
- 204782 string characters out of 5479500
- 657204 words of memory out of 5000000
- 35537 multiletter control sequences out of 15000+600000
- 648679 words of font info for 77 fonts, out of 8000000 for 9000
+ 8861 strings out of 469941
+ 203125 string characters out of 5479500
+ 657587 words of memory out of 5000000
+ 35510 multiletter control sequences out of 15000+600000
+ 645300 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,10n,80p,1051b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (30 pages, 459935 bytes).
+ 73i,10n,80p,1310b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (29 pages, 1204140 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

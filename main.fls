@@ -143,11 +143,6 @@ INPUT .\acknowledgement.tex
 INPUT acknowledgement.tex
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT .\abstract.tex
-INPUT .\abstract.tex
-INPUT .\abstract.tex
-INPUT .\abstract.tex
-INPUT abstract.tex
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
@@ -218,21 +213,35 @@ INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
-INPUT .\images\fig3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\3.1.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
+INPUT .\images\fig3.2.png
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
-INPUT .\images\fig3.2.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\fig3.3.jpg
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
+INPUT .\images\3.4.png
 INPUT .\chapters\ch4feasability.tex
 INPUT .\chapters\ch4feasability.tex
 INPUT .\chapters\ch4feasability.tex

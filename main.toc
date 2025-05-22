@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {5.3}Flow Chart}{15}{}%
 \contentsline {chapter}{\numberline {6}Result And Analysis}{17}{}%
 \contentsline {section}{\numberline {6.1}Expected Output}{17}{}%
-\contentsline {chapter}{Gantt Chart}{19}{}%
-\contentsline {chapter}{Cost Estimation}{20}{}%
-\contentsline {chapter}{References}{22}{}%
+\contentsline {chapter}{Gantt Chart}{18}{}%
+\contentsline {chapter}{Cost Estimation}{19}{}%
+\contentsline {chapter}{References}{21}{}%
 \contentsfinish 

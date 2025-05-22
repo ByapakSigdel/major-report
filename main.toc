@@ -4,19 +4,20 @@
 \contentsline {chapter}{List of Abbreviation}{iv}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}Background Theory}{1}{}%
-\contentsline {section}{\numberline {1.2}Problem Statement}{2}{}%
-\contentsline {chapter}{\numberline {2}Literature Review}{4}{}%
-\contentsline {chapter}{\numberline {3}Related Theory}{7}{}%
-\contentsline {section}{\numberline {3.1}Hardware}{7}{}%
-\contentsline {section}{\numberline {3.2}Software}{9}{}%
-\contentsline {chapter}{\numberline {4}Feasibility Study}{11}{}%
-\contentsline {section}{\numberline {4.1}Technical Feasibility}{11}{}%
-\contentsline {section}{\numberline {4.2}Economic Feasibility}{11}{}%
-\contentsline {chapter}{\numberline {5}Methodology}{13}{}%
-\contentsline {section}{\numberline {5.1}System Block Diagram}{13}{}%
-\contentsline {section}{\numberline {5.2}Algorithm}{14}{}%
-\contentsline {chapter}{\numberline {6}Expected Output}{15}{}%
-\contentsline {chapter}{Gantt Chart}{16}{}%
-\contentsline {chapter}{Cost Estimation}{17}{}%
-\contentsline {chapter}{References}{18}{}%
+\contentsline {subsection}{\numberline {1.1.1}Applications}{1}{}%
+\contentsline {subsection}{\numberline {1.1.2}Scope}{2}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{3}{}%
+\contentsline {chapter}{\numberline {3}Related Theory}{6}{}%
+\contentsline {section}{\numberline {3.1}Hardware}{6}{}%
+\contentsline {section}{\numberline {3.2}Software}{8}{}%
+\contentsline {chapter}{\numberline {4}Feasibility Study}{10}{}%
+\contentsline {section}{\numberline {4.1}Technical Feasibility}{10}{}%
+\contentsline {section}{\numberline {4.2}Economic Feasibility}{10}{}%
+\contentsline {chapter}{\numberline {5}Methodology}{12}{}%
+\contentsline {section}{\numberline {5.1}System Block Diagram}{12}{}%
+\contentsline {section}{\numberline {5.2}Algorithm}{13}{}%
+\contentsline {chapter}{\numberline {6}Expected Output}{14}{}%
+\contentsline {chapter}{Gantt Chart}{15}{}%
+\contentsline {chapter}{Cost Estimation}{16}{}%
+\contentsline {chapter}{References}{17}{}%
 \contentsfinish 

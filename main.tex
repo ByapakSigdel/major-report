@@ -17,7 +17,11 @@
 \usepackage{lipsum}
 \usepackage{acronym}
 \usepackage{graphicx}
+% Add to your main document preamble
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,fit,positioning}
 \graphicspath{ {./images/} }
+\usepackage{pgfgantt}
 
 % Line spacing
 \usepackage{setspace}  
@@ -101,7 +105,7 @@
 \makeatother
 
 \title{Major}
-\author{Sandip Adhikari}
+\author{Mahan Sigdel}
 \date{May 2025}
 
 \setlength{\parindent}{0pt}
@@ -162,7 +166,7 @@
 \label{methodology}
 \input{chapters/ch5methodology}
 
-\chapter{Result And Analysis}
+\chapter{Expected Output}
 \label{result}
 \input{chapters/ch6result}
 
@@ -178,7 +182,7 @@
 
 \chapter*{References}
 \addcontentsline{toc}{chapter}{References}
-\label{references}
-\input{references}
+\bibliographystyle{plain} % or another style like ieee, unsrt, etc.
+\bibliography{references} % references.bib (no .bib extension)
 
 \end{document}

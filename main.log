@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  22 MAY 2025 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  23 MAY 2025 07:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,88 +429,84 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 ]
 Chapter 1.
-(chapters/ch1introduction.tex
+(chapters/ch1introduction.tex)
 
 [1
 
-])
-
-[2]
-
-[3]
+]
 Chapter 2.
 (chapters/ch2literature.tex)
 
-[4
+[2
 
 ]
 
-[5]
+[3]
 
-[6]
+[4]
 Chapter 3.
 (chapters/ch3relatedtheory.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<images/3.1.png, id=43, 602.25pt x 451.6875pt>
+<images/3.1.png, id=37, 602.25pt x 451.6875pt>
 File: images/3.1.png Graphic file (type png)
 <use images/3.1.png>
 Package pdftex.def Info: images/3.1.png  used on input line 7.
 (pdftex.def)             Requested size: 226.48395pt x 169.86484pt.
-<images/fig3.2.png, id=45, 553.06625pt x 406.51875pt>
+<images/fig3.2.png, id=39, 553.06625pt x 406.51875pt>
 File: images/fig3.2.png Graphic file (type png)
 <use images/fig3.2.png>
 Package pdftex.def Info: images/fig3.2.png  used on input line 18.
 (pdftex.def)             Requested size: 226.48395pt x 166.46906pt.
 
 
-[7
+[5
 
  <./images/3.1.png>]
-<images/fig3.3.jpg, id=51, 1084.05pt x 632.3625pt>
+<images/fig3.3.jpg, id=44, 1084.05pt x 632.3625pt>
 File: images/fig3.3.jpg Graphic file (type jpg)
 <use images/fig3.3.jpg>
 Package pdftex.def Info: images/fig3.3.jpg  used on input line 29.
 (pdftex.def)             Requested size: 226.48395pt x 132.11496pt.
 
 
-[8 <./images/fig3.2.png> <./images/fig3.3.jpg>]
-<images/3.4.png, id=55, 513.41812pt x 350.81062pt>
+[6 <./images/fig3.2.png> <./images/fig3.3.jpg>]
+<images/3.4.png, id=48, 513.41812pt x 350.81062pt>
 File: images/3.4.png Graphic file (type png)
 <use images/3.4.png>
 Package pdftex.def Info: images/3.4.png  used on input line 40.
 (pdftex.def)             Requested size: 226.48395pt x 154.75325pt.
 
 
-[9 <./images/3.4.png>])
+[7 <./images/3.4.png>])
 
-[10]
+[8]
 Chapter 4.
 (chapters/ch4feasability.tex
 
-[11
+[9
 
 ])
 
-[12]
+[10]
 Chapter 5.
 (chapters/ch5methodology.tex
 
-[13
+[11
 
 ]
 
-[14])
+[12])
 
-[15]
+[13]
 
-[16]
+[14]
 Chapter 6.
 (chapters/ch6result.tex)
 
-[17
+[15
 
 ] (ganttchart.tex
 File: images/kec.png Graphic file (type png)
@@ -519,17 +515,17 @@ Package pdftex.def Info: images/kec.png  used on input line 3.
 (pdftex.def)             Requested size: 101.62874pt x 101.62874pt.
 )
 
-[18
+[16
 
 ] (cost estimation.tex
 
-[19
+[17
 
 ])
 
-[20] (references.tex)
+[18] (references.tex)
 
-[21
+[19
 
 ] (main.aux)
  ***********
@@ -540,15 +536,15 @@ L3 programming layer <2025-04-14>
 Here is how much of TeX's memory you used:
  8870 strings out of 469941
  203233 string characters out of 5479500
- 657598 words of memory out of 5000000
+ 654326 words of memory out of 5000000
  35521 multiletter control sequences out of 15000+600000
  645300 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,10n,80p,1287b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (27 pages, 1663892 bytes).
+Output written on main.pdf (25 pages, 1657398 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

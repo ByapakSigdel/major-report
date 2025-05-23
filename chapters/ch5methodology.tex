@@ -35,47 +35,66 @@
         \draw[->] (unreal) -- (virtual);
 
     \end{tikzpicture}
-    \caption{Detailed Block Diagram of Hand Motion Replicator System}
+    \caption{Detailed Block Diagram of H.A.N.D}
     \label{fig:block_diagram}
 \end{figure}
 
 \section{Algorithm}
-\begin{enumerate}
-    \item System Initialization
-    \begin{itemize}
-        \item Configure MPU6050 for 6-DoF motion tracking
-        \item Initialize analog inputs for flex sensors
-        \item Set up digital inputs for tactile switches
-        \item Configure serial communication parameters
-    \end{itemize}
-    \item Sensor Data Acquisition
-    \begin{itemize}
-        \item Read accelerometer and gyroscope data from MPU6050
-        \item Measure resistance values from flex sensors
-        \item Monitor state of tactile switches
-        \item Apply calibration offsets
-    \end{itemize}
-    \item Data Processing
-    \begin{itemize}
-        \item Filter sensor noise using moving average
-        \item Calculate hand orientation from IMU data
-        \item Convert flex sensor values to finger angles
-        \item Detect finger press events
-    \end{itemize}
-    \item Data Transmission
-    \begin{itemize}
-        \item Package processed data into structured format
-        \item Implement error checking
-        \item Transmit data packets via serial communication
-    \end{itemize}
-    \item Virtual Model Update
-    \begin{itemize}
-        \item Parse received data packets
-        \item Update hand skeleton parameters
-        \item Apply inverse kinematics for finger movements
-        \item Render updated hand model
-    \end{itemize}
-\end{enumerate}
+
+\begin{itemize}
+    \item Configure MPU6050 for motion tracking
+    \item Set up analog inputs for flex sensors
+    \item Configure digital pins for tactile switches
+    \item Initialize serial communication port
+    \item Read acceleration and rotation data from MPU6050
+    \item Sample voltage values from flex sensors
+    \item Check state of tactile switches
+    \item Apply noise filtering to sensor readings
+    \item Implement calibration offsets to raw data
+    \item Calculate hand orientation from accelerometer/gyroscope data
+    \item Convert flex sensor readings to finger joint angles
+    \item Prepare data packet with structured format
+    \item Calculate and append checksum for error detection
+    \item Transmit formatted data through serial interface
+    \item Receive data packets on PC side
+    \item Validate incoming data integrity
+    \item Update virtual hand skeleton parameters
+    \item Apply calculated movements to 3D hand model
+\end{itemize}
+
+\section{Flowchart}
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}[node distance=1.5cm, auto, >=latex', thick,
+                        block/.style={rectangle, draw, text width=4.5cm, text centered, rounded corners, minimum height=0.8cm, fill=blue!10},
+                        start/.style={ellipse, draw, text width=3.5cm, text centered, minimum height=0.7cm, fill=green!20},
+                        decision/.style={diamond, draw, text width=2.5cm, text centered, minimum height=0.9cm, fill=yellow!20},
+                        line/.style={draw, -latex', thick}]
+        
+        % Nodes
+        \node [start] (start) {Start};
+        \node [block, below=of start] (init) {Initialize Hardware};
+        \node [block, below=of init] (acquire) {Collect Sensor Data};
+        \node [block, below=of acquire] (process) {Process Data};
+        \node [block, below=of process] (transmit) {Transmit Data};
+        \node [block, below=of transmit] (update) {Render Model};
+        \node [decision, below=of update] (continue) {Continue?};
+        \node [start, below=of continue] (end) {End};
+        
+        % Connections
+        \path [line] (start) -- (init);
+        \path [line] (init) -- (acquire);
+        \path [line] (acquire) -- (process);
+        \path [line] (process) -- (transmit);
+        \path [line] (transmit) -- (update);
+        \path [line] (update) -- (continue);
+        \path [line] (continue) -- node[near start] {No} (end);
+        \path [line] (continue.west) -- ++(-2,0) |- node[near start] {Yes} (acquire.west);
+        
+    \end{tikzpicture}
+    \caption{Algorithm Flowchart for H.A.N.D}
+    \label{fig:algorithm_flow}
+\end{figure}
 
 
 

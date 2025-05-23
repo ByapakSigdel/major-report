@@ -1,11 +1,11 @@
 \section{Background Theory}
-In recent years, computer technology has evolved rapidly, becoming an integral and ever-present part of human life. Modern systems are increasingly ubiquitous, blending seamlessly into our surroundings and enabling more natural and intuitive interactions between humans and machines. Traditional interfaces like keyboards and mice are being replaced with Natural User Interfaces (NUI), which allow people to interact with systems using natural human behaviors such as speech, movement, and gestures. This aligns with the Embodied Interaction Theory, which emphasizes interaction through physical engagement and bodily movement.
+The rapid advancement of human-computer interaction (HCI) technologies has paved the way beyond traditional input devices towards more intuitive interfaces. Among these, Gesture-based systems have emerged as a powerful mode of interaction where users engage with digital systems through physical movements, particularly of the hands. This evolution is particularly significant in applications such as gaming, virtual and augmented reality, assistive technology, and robotics.
 
-A notable example of gesture-based input is the data glove, a wearable device equipped with sensors that capture precise hand and finger movements. This project explores the use of a data glove for gesture recognition and its integration into interactive systems. By translating physical hand movements into digital commands, the data glove offers a more natural, immersive, and responsive way to control applications from controlling devices to navigating virtual environments.
+The MPU6050, a 6-DoF inertial measurement unit (IMU) combining a 3-axis gyroscope and a 3-axis accelerometer, is widely used for real-time tracking of wrist orientation and movement, crucial for recognizing hand gestures [1], [2]. For detecting finger movements, flex sensors are employed, which vary resistance based on bending, providing analog signals proportional to flexion [3]. Alternatively, mechanical switches, activated by levers attached to finger components, offer a digital input method with tactile feedback. Data from these sensors are processed by microcontrollers like the Arduino Mega, which provides ample I/O support. For seamless interaction with external applications, the ESP8266 Wi-Fi module facilitates wireless data transmission, ensuring low-latency communication between the wearable device and the host system [4].
 
-This project focuses on the development of a data glove using Arduino, designed to recognize hand gestures and translate them into control signals for digital systems. The glove integrates flex sensors to detect finger bending, an MPU-6050 sensor (Inertial Measurement Unit) to measure orientation and motion, and an ESP8266 Wi-Fi module for wireless communication with other devices or systems. The glove structure is built using PLA (Polylactic Acid), a biodegradable 3D printing material, making the design both lightweight and customizable.
+Device housing commonly utilizes 3D-printed PLA filament, chosen for its lightweight properties, customizability, and suitability for ergonomic wearable enclosures that maintain sensor alignment [5]. In the software domain, gesture data is mapped to real-time responses within a digital environment. Game engines, such as Unreal Engine, support external hardware integration, enabling the visualization of hand movements from a first-person perspective [6]. This establishes a seamless connection between physical actions and virtual reactions, particularly effective in immersive puzzle-based or simulation games. Ultimately, gesture-based input systems enhance user experience by aligning digital control with natural human motion, proving ideal for applications ranging from gaming to assistive technology.
 
-\subsection{Applications}
+\section{Applications}
 The data glove system finds applications in various fields including:
 \begin{itemize}
     \item Virtual and Augmented Reality (VAR)
@@ -16,7 +16,7 @@ The data glove system finds applications in various fields including:
     \item Educational Tools
 \end{itemize}
 
-\subsection{Scope}
+\section{Scope}
 The project encompasses several key areas for development and future expansion:
 \begin{itemize}
     \item Integration with machine learning models to improve gesture recognition accuracy

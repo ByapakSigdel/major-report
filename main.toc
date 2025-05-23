@@ -9,17 +9,23 @@
 \contentsline {section}{\numberline {1.4}Scope}{2}{}%
 \contentsline {section}{\numberline {1.5}Applications}{2}{}%
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{}%
-\contentsline {chapter}{\numberline {3}Related Theory}{6}{}%
-\contentsline {section}{\numberline {3.1}Hardware}{6}{}%
-\contentsline {section}{\numberline {3.2}Software}{8}{}%
-\contentsline {chapter}{\numberline {4}Feasibility Study}{10}{}%
-\contentsline {section}{\numberline {4.1}Technical Feasibility}{10}{}%
-\contentsline {section}{\numberline {4.2}Economic Feasibility}{10}{}%
-\contentsline {chapter}{\numberline {5}Methodology}{12}{}%
-\contentsline {section}{\numberline {5.1}System Block Diagram}{12}{}%
-\contentsline {section}{\numberline {5.2}Algorithm}{13}{}%
-\contentsline {chapter}{\numberline {6}Expected Output}{14}{}%
-\contentsline {chapter}{Gantt Chart}{15}{}%
-\contentsline {chapter}{Cost Estimation}{16}{}%
-\contentsline {chapter}{References}{17}{}%
+\contentsline {section}{\numberline {2.1}Literature Review}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}Vision-Based Gesture Recognition}{3}{}%
+\contentsline {subsection}{\numberline {2.1.2}Flex Sensor-Based Approaches}{3}{}%
+\contentsline {subsection}{\numberline {2.1.3}Wireless Data Glove Technology}{3}{}%
+\contentsline {subsection}{\numberline {2.1.4}Historical Glove-Based Input Devices}{4}{}%
+\contentsline {subsection}{\numberline {2.1.5}IMU Sensor Applications}{4}{}%
+\contentsline {chapter}{\numberline {3}Related Theory}{5}{}%
+\contentsline {section}{\numberline {3.1}Hardware}{5}{}%
+\contentsline {section}{\numberline {3.2}Software}{7}{}%
+\contentsline {chapter}{\numberline {4}Feasibility Study}{9}{}%
+\contentsline {section}{\numberline {4.1}Technical Feasibility}{9}{}%
+\contentsline {section}{\numberline {4.2}Economic Feasibility}{9}{}%
+\contentsline {chapter}{\numberline {5}Methodology}{11}{}%
+\contentsline {section}{\numberline {5.1}System Block Diagram}{11}{}%
+\contentsline {section}{\numberline {5.2}Algorithm}{12}{}%
+\contentsline {chapter}{\numberline {6}Expected Output}{13}{}%
+\contentsline {chapter}{Gantt Chart}{14}{}%
+\contentsline {chapter}{Cost Estimation}{15}{}%
+\contentsline {chapter}{References}{16}{}%
 \contentsfinish 

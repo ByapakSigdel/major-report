@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  23 MAY 2025 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  23 MAY 2025 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -830,17 +830,9 @@ Missing character: There is no 1 in font nullfont!
 
 [16
 
-] (main.bbl
+] (references.tex)
 
 [17
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-
-[18
 
 ] (main.aux)
  ***********
@@ -849,17 +841,17 @@ L3 programming layer <2025-04-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 22953 strings out of 469941
- 529684 string characters out of 5479500
- 981527 words of memory out of 5000000
- 49327 multiletter control sequences out of 15000+600000
- 646255 words of font info for 74 fonts, out of 8000000 for 9000
+ 22955 strings out of 469941
+ 529710 string characters out of 5479500
+ 981551 words of memory out of 5000000
+ 49328 multiletter control sequences out of 15000+600000
+ 647391 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,9n,91p,1240b,930s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (24 pages, 1657275 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (23 pages, 1672953 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

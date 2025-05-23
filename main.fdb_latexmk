@@ -1,13 +1,5 @@
 # Fdb version 4
-["bibtex main"] 1748006815.38931 "main.aux" "main.bbl" "main" 1748007044.75485 0
-  "C:/Program Files/MiKTeX/bibtex/bib/feupphdteses/references.bib" 1366811700 2206 985e03fb36d872d306e76cfacc160693 ""
-  "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1748007043.58548 6312 c64ec5000673cc94f0466c075ea21fd7 "pdflatex"
-  (generated)
-  "main.bbl"
-  "main.blg"
-  (rewritten before read)
-["pdflatex"] 1748007041.54302 "c:/Users/acer/Desktop/major-report/major-project-report/main.tex" "main.pdf" "main" 1748007044.75596 0
+["pdflatex"] 1748007478.42595 "c:/Users/acer/Desktop/major-report/major-project-report/main.tex" "main.pdf" "main" 1748007481.0771 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136751554 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136751554 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -15,6 +7,7 @@
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmr8c.tfm" 1136751554 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmr8r.tfm" 1136751554 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmri7t.tfm" 1136751554 2288 f478fc8fed18759effb59f3dad7f3084 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmri8r.tfm" 1136751554 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/zptmcm7m.tfm" 1136751554 2232 db256afffc8202da192b4641df14d602 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/zptmcm7t.tfm" 1136751554 2172 1d00c2a0d10f23031be62329457a870c ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/zptmcm7v.tfm" 1136751554 1032 20febbd0f0c9a48eb78616f897008286 ""
@@ -22,9 +15,11 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136832648 44729 811d6c62865936705a31c797a1d5dada ""
   "C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136832648 46026 6dab18b61c907687b520c72847215a68 ""
+  "C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb" 1136832648 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "C:/Program Files/MiKTeX/fonts/vf/adobe/times/ptmb7t.vf" 1136751554 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "C:/Program Files/MiKTeX/fonts/vf/adobe/times/ptmr7t.vf" 1136751554 1380 0ea3a3370054be6da6acd929ec569f06 ""
   "C:/Program Files/MiKTeX/fonts/vf/adobe/times/ptmr8c.vf" 1136751554 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
+  "C:/Program Files/MiKTeX/fonts/vf/adobe/times/ptmri7t.vf" 1136751554 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty" 1734114575 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty" 1734114575 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -168,9 +163,9 @@
   "C:/Users/acer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747799565.23094 13147571 33f01320c32efa6821f42cbf03dc33a9 ""
   "abbreviation.tex" 1747968511.49399 981 2ec270b60d35600218e3720c46fb19ef ""
   "acknowledgement.tex" 1748006838.55061 807 0fbf197e7e05f1b202b52a5952cb9035 ""
-  "c:/Users/acer/Desktop/major-report/major-project-report/main.tex" 1748006814.63618 5024 8c3bf2d4506fd3474cfcecef54ac148f ""
+  "c:/Users/acer/Desktop/major-report/major-project-report/main.tex" 1748007425.36819 5070 a66f3eaba78fb5e9a1b169622700d9d1 ""
   "chapters/ch1introduction.tex" 1747972451.69382 5933 f1c06937f648099e727f6dafaf3809db ""
-  "chapters/ch2lit.tex" 1748006737.31743 3742 16528316563ce922dc051e5a0a856a23 ""
+  "chapters/ch2lit.tex" 1748007205.65968 3729 f456764e680b7272241f07453afd1784 ""
   "chapters/ch3relatedtheory.tex" 1747924752.99388 7497 a72cc6471a806f642a62f5d0e60bd692 ""
   "chapters/ch4feasability.tex" 1747925536.35093 3242 2976fc79561bb132d3cdd43efcda7d8d ""
   "chapters/ch5methodology.tex" 1748006193.00049 3388 fd3cb2ee49b3a4cf3251e3e180c3336a ""
@@ -182,11 +177,11 @@
   "images/fig3.2.png" 1747761030.7261 436197 eb7d9054c52676dc37ca4a37d803dbac ""
   "images/fig3.3.jpg" 1747762472.58391 626788 b3000b5a5146c7327ad0f6abe900d4ee ""
   "images/kec.png" 1747799130.37576 15501 1a20e58fb11664b14830efee004950f1 ""
-  "main.aux" 1748007043.58548 6312 c64ec5000673cc94f0466c075ea21fd7 "pdflatex"
-  "main.bbl" 1748006815.81122 52 a8d58af1cdd914e1e9801ae0ec600f83 "bibtex main"
-  "main.lof" 1748007043.5893 615 034c576dfac63765622df412c6d742f7 "pdflatex"
-  "main.lot" 1748007043.59034 233 c43156ff0296efae65c90eba3876c2da "pdflatex"
-  "main.toc" 1748007043.5893 1475 c63ba1c3293dfe2c3b58a14e94997ce1 "pdflatex"
+  "main.aux" 1748007480.69535 6320 05071cfdbe9c984ab4521df20e524e8d "pdflatex"
+  "main.lof" 1748007480.70033 615 034c576dfac63765622df412c6d742f7 "pdflatex"
+  "main.lot" 1748007480.70133 233 c43156ff0296efae65c90eba3876c2da "pdflatex"
+  "main.toc" 1748007480.70033 1475 c63ba1c3293dfe2c3b58a14e94997ce1 "pdflatex"
+  "references.tex" 1748007477.56245 1779 27b21c79e463274a8b2f32ab11aa529a ""
   "titlepage.tex" 1748007040.69382 984 de483abd8be5cf640edb992279c84faf ""
   (generated)
   "main.aux"

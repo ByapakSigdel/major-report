@@ -1,6 +1,6 @@
 \section{System Block Diagram}
 
-\begin{figure}[h!]
+\begin{figure}[!ht]
     \centering
     \begin{tikzpicture}[node distance=2cm, auto, >=latex', thick]
         % Sensor nodes
@@ -38,10 +38,10 @@
     \caption{Detailed Block Diagram of H.A.N.D}
     \label{fig:block_diagram}
 \end{figure}
-
+\vspace{1.5\baselineskip}
 \section{Algorithm}
 
-\begin{itemize}
+\begin{enumerate}
     \item Configure MPU6050 for motion tracking
     \item Set up analog inputs for flex sensors
     \item Configure digital pins for tactile switches
@@ -60,10 +60,13 @@
     \item Validate incoming data integrity
     \item Update virtual hand skeleton parameters
     \item Apply calculated movements to 3D hand model
-\end{itemize}
+\end{enumerate}
+
+\vspace{1.5\baselineskip}
+\newpage
 
 \section{Flowchart}
-\begin{figure}[h!]
+\begin{figure}[!ht]
     \centering
     \begin{tikzpicture}[node distance=1.5cm, auto, >=latex', thick,
                         block/.style={rectangle, draw, text width=4.5cm, text centered, rounded corners, minimum height=0.8cm, fill=blue!10},
@@ -92,7 +95,7 @@
         \path [line] (continue.west) -- ++(-2,0) |- node[near start] {Yes} (acquire.west);
         
     \end{tikzpicture}
-    \caption{Algorithm Flowchart for H.A.N.D}
+    \caption{Flowchart for H.A.N.D}
     \label{fig:algorithm_flow}
 \end{figure}
 
